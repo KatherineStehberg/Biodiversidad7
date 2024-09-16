@@ -2,6 +2,32 @@
 
 https://biodiversidad7.onrender.com/
 
+# Biodiversidad
+
+Hito 4
+
+1. Realizar el deploy de la aplicación cliente.
+   
+ Se realizó la subida de la base de datos con éxito.
+
+ ![site is live](https://github.com/user-attachments/assets/987c0e41-a5c4-40a6-887d-e3183c3b6c7e)
+
+
+2. Realizar el deploy de la aplicación backend.
+
+   ![deployed](https://github.com/user-attachments/assets/7240d15b-b2d6-4c76-98df-362f7b5821ba)
+
+
+3. Realizar el deploy de la base de datos.
+
+![build command](https://github.com/user-attachments/assets/8ebfc19c-6080-4fcc-9492-db0bda11345d)
+
+
+4. Integrar la aplicación cliente con la aplicación backend en producción.
+
+[ https://biodiversidad-master-npfl.onrender.com/](https://biodiversidad7.onrender.com/)
+
+
 
 # Hito3-Backend
 Desafio Latam Proyecto final (G62)
